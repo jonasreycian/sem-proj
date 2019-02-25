@@ -1,0 +1,33 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.collapse{
+    font-weight: bold;
+}
+
+.black{
+    color: #000000;
+}
+
+.red{
+    color: red;
+}
+
+.__link{
+    color: black;
+    text-decoration-color: black;
+}
+
+.__link:hover{
+    background-color: #E5E4E2;
+    cursor: pointer;
+}
+
+.oswald{
+    font-family: 'Oswald', sans-serif;
+}
+
+a{
+    color: #413839;
+}
